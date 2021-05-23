@@ -3,13 +3,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/amalic/jupyterlab.svg)](https://hub.docker.com/r/amalic/jupyterlab/)
 
 
-https://hub.docker.com/r/amalic/jupyterlab
-
-
-
-
-
-
 ## Jupyterlab Docker container
 
 **This Docker container runs as root user!** It can be helpful when e.g. the popular jupyter/datascience-notebook image does not work because it runs as Jovyan user. 
